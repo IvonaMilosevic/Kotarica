@@ -1,0 +1,199 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="938e419b-d926-4d4c-995b-4deabc514824" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/Backend/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Backend/backend/.vs/backend/DesignTimeBuild/.dtbcache.v2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Backend/backend/.vs/backend/config/applicationhost.config" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Backend/backend/.vs/backend/v16/.suo" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Backend/backend/Kotarica.Data/Kotarica.Data.csproj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Backend/backend/Kotarica.Data/Oglas.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Backend/backend/Kotarica.Data/bin/Debug/netcoreapp3.1/Kotarica.Data.deps.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Backend/backend/Kotarica.Data/bin/Debug/netcoreapp3.1/Kotarica.Data.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Backend/backend/Kotarica.Data/bin/Debug/netcoreapp3.1/Kotarica.Data.pdb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Backend/backend/Kotarica.Data/obj/Debug/netcoreapp3.1/.NETCoreApp,Version=v3.1.AssemblyAttributes.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Backend/backend/Kotarica.Data/obj/Debug/netcoreapp3.1/Kotarica.Data.AssemblyInfo.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Backend/backend/Kotarica.Data/obj/Debug/netcoreapp3.1/Kotarica.Data.AssemblyInfoInputs.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Backend/backend/Kotarica.Data/obj/Debug/netcoreapp3.1/Kotarica.Data.assets.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Backend/backend/Kotarica.Data/obj/Debug/netcoreapp3.1/Kotarica.Data.csproj.CoreCompileInputs.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Backend/backend/Kotarica.Data/obj/Debug/netcoreapp3.1/Kotarica.Data.csproj.FileListAbsolute.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Backend/backend/Kotarica.Data/obj/Debug/netcoreapp3.1/Kotarica.Data.csprojAssemblyReference.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Backend/backend/Kotarica.Data/obj/Debug/netcoreapp3.1/Kotarica.Data.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Backend/backend/Kotarica.Data/obj/Debug/netcoreapp3.1/Kotarica.Data.pdb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Backend/backend/Kotarica.Data/obj/Kotarica.Data.csproj.nuget.dgspec.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Backend/backend/Kotarica.Data/obj/Kotarica.Data.csproj.nuget.g.props" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Backend/backend/Kotarica.Data/obj/Kotarica.Data.csproj.nuget.g.targets" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Backend/backend/Kotarica.Data/obj/project.assets.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Backend/backend/Kotarica.Data/obj/project.nuget.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Backend/backend/Kotarica.Repo/Kotarica.Repo.csproj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Backend/backend/Kotarica.Repo/OglasDbContext.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Backend/backend/Kotarica.Repo/OglasRepo.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Backend/backend/Kotarica.Repo/bin/Debug/netcoreapp3.1/Kotarica.Data.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Backend/backend/Kotarica.Repo/bin/Debug/netcoreapp3.1/Kotarica.Data.pdb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Backend/backend/Kotarica.Repo/bin/Debug/netcoreapp3.1/Kotarica.Repo.deps.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Backend/backend/Kotarica.Repo/bin/Debug/netcoreapp3.1/Kotarica.Repo.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Backend/backend/Kotarica.Repo/bin/Debug/netcoreapp3.1/Kotarica.Repo.pdb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Backend/backend/Kotarica.Repo/bin/Debug/netcoreapp3.1/Kotarica.Services.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Backend/backend/Kotarica.Repo/bin/Debug/netcoreapp3.1/Kotarica.Services.pdb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Backend/backend/Kotarica.Repo/obj/Debug/netcoreapp3.1/.NETCoreApp,Version=v3.1.AssemblyAttributes.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Backend/backend/Kotarica.Repo/obj/Debug/netcoreapp3.1/Kotarica.Repo.AssemblyInfo.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Backend/backend/Kotarica.Repo/obj/Debug/netcoreapp3.1/Kotarica.Repo.AssemblyInfoInputs.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Backend/backend/Kotarica.Repo/obj/Debug/netcoreapp3.1/Kotarica.Repo.assets.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Backend/backend/Kotarica.Repo/obj/Debug/netcoreapp3.1/Kotarica.Repo.csproj.CopyComplete" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Backend/backend/Kotarica.Repo/obj/Debug/netcoreapp3.1/Kotarica.Repo.csproj.CoreCompileInputs.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Backend/backend/Kotarica.Repo/obj/Debug/netcoreapp3.1/Kotarica.Repo.csproj.FileListAbsolute.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Backend/backend/Kotarica.Repo/obj/Debug/netcoreapp3.1/Kotarica.Repo.csprojAssemblyReference.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Backend/backend/Kotarica.Repo/obj/Debug/netcoreapp3.1/Kotarica.Repo.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Backend/backend/Kotarica.Repo/obj/Debug/netcoreapp3.1/Kotarica.Repo.pdb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Backend/backend/Kotarica.Repo/obj/Kotarica.Repo.csproj.nuget.dgspec.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Backend/backend/Kotarica.Repo/obj/Kotarica.Repo.csproj.nuget.g.props" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Backend/backend/Kotarica.Repo/obj/Kotarica.Repo.csproj.nuget.g.targets" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Backend/backend/Kotarica.Repo/obj/project.assets.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Backend/backend/Kotarica.Repo/obj/project.nuget.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Backend/backend/Kotarica.Services/IOglas.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Backend/backend/Kotarica.Services/Kotarica.Services.csproj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Backend/backend/Kotarica.Services/bin/Debug/netcoreapp3.1/Kotarica.Data.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Backend/backend/Kotarica.Services/bin/Debug/netcoreapp3.1/Kotarica.Data.pdb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Backend/backend/Kotarica.Services/bin/Debug/netcoreapp3.1/Kotarica.Services.deps.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Backend/backend/Kotarica.Services/bin/Debug/netcoreapp3.1/Kotarica.Services.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Backend/backend/Kotarica.Services/bin/Debug/netcoreapp3.1/Kotarica.Services.pdb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Backend/backend/Kotarica.Services/obj/Debug/netcoreapp3.1/.NETCoreApp,Version=v3.1.AssemblyAttributes.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Backend/backend/Kotarica.Services/obj/Debug/netcoreapp3.1/Kotarica.Services.AssemblyInfo.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Backend/backend/Kotarica.Services/obj/Debug/netcoreapp3.1/Kotarica.Services.AssemblyInfoInputs.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Backend/backend/Kotarica.Services/obj/Debug/netcoreapp3.1/Kotarica.Services.assets.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Backend/backend/Kotarica.Services/obj/Debug/netcoreapp3.1/Kotarica.Services.csproj.CopyComplete" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Backend/backend/Kotarica.Services/obj/Debug/netcoreapp3.1/Kotarica.Services.csproj.CoreCompileInputs.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Backend/backend/Kotarica.Services/obj/Debug/netcoreapp3.1/Kotarica.Services.csproj.FileListAbsolute.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Backend/backend/Kotarica.Services/obj/Debug/netcoreapp3.1/Kotarica.Services.csprojAssemblyReference.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Backend/backend/Kotarica.Services/obj/Debug/netcoreapp3.1/Kotarica.Services.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Backend/backend/Kotarica.Services/obj/Debug/netcoreapp3.1/Kotarica.Services.pdb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Backend/backend/Kotarica.Services/obj/Kotarica.Services.csproj.nuget.dgspec.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Backend/backend/Kotarica.Services/obj/Kotarica.Services.csproj.nuget.g.props" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Backend/backend/Kotarica.Services/obj/Kotarica.Services.csproj.nuget.g.targets" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Backend/backend/Kotarica.Services/obj/project.assets.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Backend/backend/Kotarica.Services/obj/project.nuget.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Backend/backend/backend.sln" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Backend/backend/backend/Controllers/OglasController.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Backend/backend/backend/Program.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Backend/backend/backend/Properties/launchSettings.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Backend/backend/backend/Startup.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Backend/backend/backend/appsettings.Development.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Backend/backend/backend/appsettings.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Backend/backend/backend/backend.csproj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Backend/backend/backend/backend.csproj.user" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Backend/backend/backend/bin/Debug/netcoreapp3.1/Kotarica.Data.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Backend/backend/backend/bin/Debug/netcoreapp3.1/Kotarica.Data.pdb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Backend/backend/backend/bin/Debug/netcoreapp3.1/Kotarica.Repo.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Backend/backend/backend/bin/Debug/netcoreapp3.1/Kotarica.Repo.pdb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Backend/backend/backend/bin/Debug/netcoreapp3.1/Kotarica.Services.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Backend/backend/backend/bin/Debug/netcoreapp3.1/Kotarica.Services.pdb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Backend/backend/backend/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.Abstractions.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Backend/backend/backend/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.InMemory.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Backend/backend/backend/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Backend/backend/backend/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Caching.Abstractions.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Backend/backend/backend/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Caching.Memory.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Backend/backend/backend/bin/Debug/netcoreapp3.1/Microsoft.Extensions.DependencyInjection.Abstractions.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Backend/backend/backend/bin/Debug/netcoreapp3.1/Microsoft.Extensions.DependencyInjection.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Backend/backend/backend/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Logging.Abstractions.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Backend/backend/backend/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Logging.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Backend/backend/backend/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Options.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Backend/backend/backend/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Primitives.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Backend/backend/backend/bin/Debug/netcoreapp3.1/System.Collections.Immutable.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Backend/backend/backend/bin/Debug/netcoreapp3.1/System.ComponentModel.Annotations.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Backend/backend/backend/bin/Debug/netcoreapp3.1/System.Diagnostics.DiagnosticSource.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Backend/backend/backend/bin/Debug/netcoreapp3.1/appsettings.Development.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Backend/backend/backend/bin/Debug/netcoreapp3.1/appsettings.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Backend/backend/backend/bin/Debug/netcoreapp3.1/backend.deps.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Backend/backend/backend/bin/Debug/netcoreapp3.1/backend.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Backend/backend/backend/bin/Debug/netcoreapp3.1/backend.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Backend/backend/backend/bin/Debug/netcoreapp3.1/backend.pdb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Backend/backend/backend/bin/Debug/netcoreapp3.1/backend.runtimeconfig.dev.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Backend/backend/backend/bin/Debug/netcoreapp3.1/backend.runtimeconfig.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Backend/backend/backend/obj/Debug/netcoreapp3.1/.NETCoreApp,Version=v3.1.AssemblyAttributes.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Backend/backend/backend/obj/Debug/netcoreapp3.1/apphost.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Backend/backend/backend/obj/Debug/netcoreapp3.1/backend.AssemblyInfo.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Backend/backend/backend/obj/Debug/netcoreapp3.1/backend.AssemblyInfoInputs.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Backend/backend/backend/obj/Debug/netcoreapp3.1/backend.MvcApplicationPartsAssemblyInfo.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Backend/backend/backend/obj/Debug/netcoreapp3.1/backend.RazorTargetAssemblyInfo.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Backend/backend/backend/obj/Debug/netcoreapp3.1/backend.assets.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Backend/backend/backend/obj/Debug/netcoreapp3.1/backend.csproj.CopyComplete" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Backend/backend/backend/obj/Debug/netcoreapp3.1/backend.csproj.CoreCompileInputs.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Backend/backend/backend/obj/Debug/netcoreapp3.1/backend.csproj.FileListAbsolute.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Backend/backend/backend/obj/Debug/netcoreapp3.1/backend.csprojAssemblyReference.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Backend/backend/backend/obj/Debug/netcoreapp3.1/backend.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Backend/backend/backend/obj/Debug/netcoreapp3.1/backend.genruntimeconfig.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Backend/backend/backend/obj/Debug/netcoreapp3.1/backend.pdb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Backend/backend/backend/obj/Debug/netcoreapp3.1/staticwebassets/backend.StaticWebAssets.Manifest.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Backend/backend/backend/obj/Debug/netcoreapp3.1/staticwebassets/backend.StaticWebAssets.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Backend/backend/backend/obj/backend.csproj.nuget.dgspec.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Backend/backend/backend/obj/backend.csproj.nuget.g.props" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Backend/backend/backend/obj/backend.csproj.nuget.g.targets" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Backend/backend/backend/obj/project.assets.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Backend/backend/backend/obj/project.nuget.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Backend/backend/readme.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Frontend/lib/pages/Connection.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Frontend/lib/pages/TESTADDNEWPAGE.dart" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectId" id="1qtD1oF1Im8NiJBaPvLlfNT0js1" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="android.sdk.path" value="$USER_HOME$/AppData/Local/Android/Sdk" />
+    <property name="dart.analysis.tool.window.visible" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="instant.run" />
+    <property name="show.migrate.to.gradle.popup" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="938e419b-d926-4d4c-995b-4deabc514824" name="Default Changelist" comment="" />
+      <created>1617889779496</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1617889779496</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
